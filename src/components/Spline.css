@@ -1,0 +1,41 @@
+/* Spline.css */
+@import url("https://fonts.googleapis.com/css2?family=Lacquer&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap");
+
+.spline-container {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+}
+
+.overlay {
+  position: absolute;
+  top: 75%;
+  left: 55%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color: #dfdcdc;
+}
+
+.overlay h1 {
+  font-size: 20px;
+  margin-bottom: 20px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.overlay button {
+  padding: 10px 20px;
+  font-size: 18px;
+  background-color: #c6be5d;
+  color: #313131;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  font-family: "Lacquer", sans-serif;
+}
+
+.overlay button:hover {
+  background-color: #4e96c9;
+}
