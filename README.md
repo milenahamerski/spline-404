@@ -7,5 +7,5 @@ The 404 page design is inspired by the final scene of _The Truman Show_. In this
 For any questions or suggestions, please reach out to:
 
 - **Name:** Milena Hamerski
-- **GitHub:** [\[Your GitHub Profile\]](https://github.com/milenahamerski)
-- **Linkedin:** [\[Your Linkedin Profile\]](www.linkedin.com/in/milena-hamerskis)
+- **GitHub:** [\[Github Profile]](https://github.com/milenahamerski)
+- **Linkedin:** [\[Linkedin Profile\]](www.linkedin.com/in/milena-hamerskis)
